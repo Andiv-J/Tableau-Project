@@ -1,3 +1,3 @@
 # Tableau-Project
 Superstore for USA
-This is a Superstore Dataset project
+This is a Superstore Dataset
